@@ -68,7 +68,7 @@ pagination_dir: page
 sitemap:
 	path: sitemap_index.xml
 ## Themes: http://hexo.io/themes/
-theme: SolidLandscape
+theme: SolidNext
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
