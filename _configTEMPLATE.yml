@@ -8,9 +8,9 @@
 # Site
 title: Solid Syntax
 subtitle: Java expertise
-description: Freelance Java consultancy
+description: Freelance Java consultant
 author: Hans Maes
-language: English
+language: en
 timezone: Europe/Brussels
 
 # URL
@@ -60,15 +60,18 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 3
+per_page: 0
 pagination_dir: page
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 sitemap:
-	path: sitemap_index.xml
+    path: sitemap_index.xml
 ## Themes: http://hexo.io/themes/
 theme: SolidNext
+
+social:
+    GitHub: https://github.com/SolidSyntax
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -77,6 +80,6 @@ deploy:
   host: 
   user: 
   pass: 
-  remote: /domains/solidsyntax.be/public_html/beta
+  remote:
   port: 21
   verbose: true

@@ -8,10 +8,13 @@ menu:
   #commonweal: /404.html
 
 # Place your favicon.ico to /source directory.
-favicon: /favicon.ico
+favicon: /SolidIcon.ico
+
+# Avatar (put the image into next/source/images/)
+avatar: /images/avatar.jpg
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,next"
+keywords: "Java,freelance,Software development"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -21,9 +24,9 @@ rss:
 # Icon fonts
 # Place your font into next/source/fonts, specify directory-name and font-name here
 # Avialable: default | linecons | fifty-shades | feather
-icon_font: default
+#icon_font: default
 #icon_font: fifty-shades
-#icon_font: feather
+icon_font: feather
 #icon_font: linecons
 
 # Code Highlight theme
@@ -37,7 +40,7 @@ mathjax:
 
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 # Sidebar, available value:
@@ -58,8 +61,8 @@ toc_list_number: true
 
 # Automatically Excerpt
 auto_excerpt:
-  enable: false
-  length: 150
+  enable: true
+  length: 200
 
 # Use Lato font
 # Note: this option is avialable only when the language is not `zh-Hans`
