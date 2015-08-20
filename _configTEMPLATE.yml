@@ -73,6 +73,8 @@ theme: SolidNext
 social:
     GitHub: https://github.com/SolidSyntax
 
+google_analytics: identifierGoesHere
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
