@@ -12,6 +12,8 @@ date: 2013-10-28 18:07:44
 It's not uncommon to write data to the database and the filesystem in the same transaction. The challenge is to remove files from the filesystem when the transaction fails. It is possible to  combine database Spring transactions with files on the filesystem .
 The following example has a Spring-managed transactional method which will first write some data to the database. After doing so it will create a file on the filesystem. 
 
+<!-- more-->
+
 {% codeblock lang:java %}
 @Transactional
 public void methodInTransaction() {

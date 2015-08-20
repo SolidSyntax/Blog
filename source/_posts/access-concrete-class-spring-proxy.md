@@ -11,6 +11,8 @@ date: 2013-12-10 20:11:51
 
 Working with [Spring-AOP](http://docs.spring.io/spring/docs/3.2.5.RELEASE/spring-framework-reference/html/aop.html) there are moments when you want to access the class type of the incoming method call. In my example I've implemented a [MethodInterceptor](http://aopalliance.sourceforge.net/doc/org/aopalliance/intercept/MethodInterceptor.html) to capture method invocations on a class of type net.solidsyntax.MyProxiedClass. 
 
+<!-- more-->
+
 {% codeblock lang:java %}
 public Object invoke(MethodInvocation invocation) throws Throwable {
     Class<? extends Object> clazz = invocation.getThis().getClass()

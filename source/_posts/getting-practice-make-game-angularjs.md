@@ -15,6 +15,8 @@ I'm currently working on a project in which we are re-writing an existing websit
 
 To get some practice I thought I could make a game in AngularJS.
 
+<!-- more-->
+
 The game is similar to the game [Ghost Blitz](http://boardgamegeek.com/boardgame/83195/ghost-blitz) as you need to figure out as quickly as possible which is the correct answer based on elimination. The in-game text is in Dutch but the code is written in English.
 
 You can have a look at the live demo [here](http://solidsyntax.be/playground/DiertjesEnKleurtjes) . The code is available under the GPL license on my GitHub account, which can be found [here](https://github.com/SolidSyntax/AnimalsAndColors). If you have a suggestion feel free to create an issue. Or better yet, create a fork and add whatever you can think of !

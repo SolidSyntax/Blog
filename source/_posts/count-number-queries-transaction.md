@@ -13,6 +13,8 @@ Some time ago we upgraded our connection pool from [Apache Commons DBCP](http://
 [SlowQueryReport](http://tomcat.apache.org/tomcat-7.0-doc/jdbc-pool.html#org.apache.tomcat.jdbc.pool.interceptor.SlowQueryReport) is one of the included interceptors. It logs queries which take longer to execute then the specified threshold. 
 While this information can be very valuable it doesn’t quite tell the complete story.
 
+<!-- more-->
+
 It could be that a certain unit of work (a transaction, a method call) doesn't log a single slow query and still takes a long time to complete because it executes a lot of queries. To count the number of queries in a transaction I've created a CountQueryReport extension for the Tomcat JDBC Connection Pool. It is a very simple extension which will count the number of statements (per thread) executed between a call to 'resetCount()' and 'numberOfStatements()'.
 
 Configuration example (for a Spring environment):
