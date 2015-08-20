@@ -11,6 +11,8 @@ The larger your Servlet application becomes the more time it needs to start. The
 
 By default a Tomcat server gives an application 5 seconds to terminate before the "Tomcat did not stop in time. PID file was not removed." messages is logged. 5 seconds isn't a lot of time, especially when the application needs to close a connection pool or perform some cleanup tasks.
 
+<!-- more-->
+
 The fix is rather easy and documented in the catalina command:
 
 {% codeblock lang:bash %}

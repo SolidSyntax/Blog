@@ -11,7 +11,9 @@ date: 2013-11-25 20:24:10
 
 Lately I've been playing around with [Groovy ](http://groovy.codehaus.org/) and I tought I might try converting a Java project to Groovy. The example application which I've created to demonstrate [Hibernate FetchMode strategies](/2013/11/17/optimize-onetoone-mappings-hibernate/ "Hibernate FetchMode explained by example") seems ideal for the task. It contains a few Hibernate entities, which are basically just Java beans. And it has a small piece of 'application logic'. You may download the original code [here](/2013/11/17/optimize-onetoone-mappings-hibernate/Hibernate_Optimize_OneToOne_CodeExample.zip). For those who can't wait for the result the final code can be found [here](/2013/11/25/converting-a-java-project-to-groovy/Hibernate_FetchMode_Groovy.rar).
 
-Now let's get started...
+Now let's get started ..
+
+<!-- more-->
 
 #  Modify the Gradle build file 
 

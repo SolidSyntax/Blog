@@ -26,6 +26,8 @@ Creating a Spring Context takes some time depending on the size of the applicati
 
 Sometimes however your tests will change some values in the Spring Context which may cause other tests to fail. The solution is to clean the Spring Context between tests. This can be done with the [DirtiesContext ](http://docs.spring.io/spring/docs/3.2.x/javadoc-api/org/springframework/test/annotation/DirtiesContext.html)annotation.
 
+<!-- more-->
+
 To clean the Spring Context after the current test, place the DirtiesContext annotation on the method:
 {% codeblock lang:java %}
 @RunWith(SpringJUnit4ClassRunner.class)
