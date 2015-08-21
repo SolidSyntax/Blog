@@ -32,6 +32,12 @@
           </time>
         </span>
 
+        &nbsp; | &nbsp; by &nbsp;
+          <a href="{{ url_for('about') }}" itemprop="url" rel="index">
+             <span itemprop="name">{{ (theme.author) }}</span>
+          </a>
+
+
         {% if post.categories and post.categories.length %}
           <span class="post-category" >
             &nbsp; | &nbsp; {{ __('post.in') }}
