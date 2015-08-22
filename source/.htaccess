@@ -1,6 +1,3 @@
-Redirect 301 /beta/post/old/moved/  http://www.solidsyntax.be/beta/categories/Books/
-
-Redirect 301 /about/ http://www.solidsyntax.be/about
 Redirect 301 /lessons-learned/ http://www.solidsyntax.be/lessons-learned/
 Redirect 301 /lessons-learned/connect-to-jmxmbeans-on-tomcat-behind-a-firewall/ http://www.solidsyntax.be/connect-to-jmxmbeans-on-tomcat-behind-a-firewall/
 Redirect 301 /lessons-learned/hibernate-fetchmode-explained-example/ http://www.solidsyntax.be/hibernate-fetchmode-explained-example/
