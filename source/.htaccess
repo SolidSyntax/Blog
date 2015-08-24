@@ -1,5 +1,6 @@
 Redirect 301 /lessons-learned/connect-to-jmxmbeans-on-tomcat-behind-a-firewall/ http://www.solidsyntax.be/connect-to-jmxmbeans-on-tomcat-behind-a-firewall/
-Redirect 301 /lessons-learned/hibernate-fetchmode-explained-example/ http://www.solidsyntax.be/hibernate-fetchmode-explained-example/
+Redirect 301 /lessons-learned/hibernate-fetchmode-explained-example/ http://www.solidsyntax.be/2013/10/17/fetching-collections-hibernate/
+Redirect 301 /hibernate-fetchmode-explained-example/ http://www.solidsyntax.be/2013/10/17/fetching-collections-hibernate/
 Redirect 301 /lessons-learned/optimize-onetoone-mappings/ http://www.solidsyntax.be/optimize-onetoone-mappings/
 
 Redirect 301 /thoughts/connecting-jmx-to-tomcat/ http://www.SolidSyntax.be/2013/10/14/connecting-jmx-to-tomcat/
