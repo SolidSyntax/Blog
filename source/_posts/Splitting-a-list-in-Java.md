@@ -12,7 +12,7 @@ As an experiment I've tried a differend approach. Splitting a list by using recu
 {% codeblock lang:java %}
 	public static <T> List<List<T>> split(List<T> source, Integer partitionSize) {
         if(partitionSize < 1){
-        	throw new IllegalArgumentException("partitionSize must be atleast 1");
+        	throw new IllegalArgumentException("partitionSize must be at least 1");
         }
 		
 		if(source.isEmpty()){
