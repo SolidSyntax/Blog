@@ -9,7 +9,8 @@
 {% block content %}
 
   <section id="posts" class="posts-collapse">
-    {% for post in page.posts %}
+    {% for post in site.posts %}
+    <!--{% for post in page.posts %}-->
 
       {# Show year #}
       {% set year %}
@@ -29,7 +30,7 @@
 
   </section>
 
-  {% include '_partials/pagination.swig' %}
+  <!--{% include '_partials/pagination.swig' %}-->
 
 {% endblock %}
 
