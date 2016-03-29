@@ -9,7 +9,7 @@
 {% block content %}
 
   <section id="posts" class="posts-collapse">
-    {% for post in site.posts %}
+    {% for post in site.posts.sort('-date') %}
 
       {# Show year #}
       {% set year %}
