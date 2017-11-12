@@ -78,5 +78,3 @@ Using Java:
         }
     }
 {% endcodeblock %} 
-
-
