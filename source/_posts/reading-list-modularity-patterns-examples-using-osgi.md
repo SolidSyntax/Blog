@@ -8,7 +8,7 @@ categories:
 date: 2013-12-05 20:35:03
 ---
 
-![](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321247132&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=solisynt-20)
+![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321247132&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=solisynt-20)
 
 I finally found the time to read [Java Application Architecture: Modularity Patterns with Examples Using OSGi](http://www.amazon.com/gp/product/0321247132/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321247132&linkCode=as2&tag=solisynt-20) written by [Kirk Knoernschild](http://techdistrict.kirkk.com/).
 With such an impressive and lengthy title I expected a difficult read. But as it turns out Kirk was able to explain some rather abstract concepts in a very understandable and accessible manner.
