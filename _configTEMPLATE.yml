@@ -76,6 +76,9 @@ social:
 
 google_analytics: identifierGoesHere
 
+include:
+    - .htaccess
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
