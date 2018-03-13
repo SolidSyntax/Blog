@@ -8,7 +8,7 @@ categories:
 date: 2013-12-29 10:30:21
 ---
 
-[![](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321826620&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=solisynt-20)](http://www.amazon.com/gp/product/0321826620/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321826620&linkCode=as2&tag=solisynt-20)
+[![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0321826620&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=solisynt-20)](https://www.amazon.com/gp/product/0321826620/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321826620&linkCode=as2&tag=solisynt-20)
 I've just finished reading [NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](http://www.amazon.com/gp/product/0321826620/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321826620&linkCode=as2&tag=solisynt-20)
 NoSQL Distilled is a very concise book of about 150 pages. It's main goal is to give people new to the NoSQL world a high level overview of what NoSQL is all about.  
 
