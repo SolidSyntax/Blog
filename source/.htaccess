@@ -1,22 +1,28 @@
-Redirect 301 /lessons-learned/connect-to-jmxmbeans-on-tomcat-behind-a-firewall/ http://www.solidsyntax.be/2013/10/14/connecting-jmx-to-tomcat/
-Redirect 301 /connect-to-jmxmbeans-on-tomcat-behind-a-firewall/ http://www.solidsyntax.be/2013/10/14/connecting-jmx-to-tomcat/
+Redirect 301 /lessons-learned/connect-to-jmxmbeans-on-tomcat-behind-a-firewall/ https://www.solidsyntax.be/2013/10/14/connecting-jmx-to-tomcat/
+Redirect 301 /connect-to-jmxmbeans-on-tomcat-behind-a-firewall/ https://www.solidsyntax.be/2013/10/14/connecting-jmx-to-tomcat/
 
-Redirect 301 /lessons-learned/hibernate-fetchmode-explained-example/ http://www.solidsyntax.be/2013/10/17/fetching-collections-hibernate/
-Redirect 301 /hibernate-fetchmode-explained-example/ http://www.solidsyntax.be/2013/10/17/fetching-collections-hibernate/
+Redirect 301 /lessons-learned/hibernate-fetchmode-explained-example/ https://www.solidsyntax.be/2013/10/17/fetching-collections-hibernate/
+Redirect 301 /hibernate-fetchmode-explained-example/ https://www.solidsyntax.be/2013/10/17/fetching-collections-hibernate/
 
-Redirect 301 /lessons-learned/optimize-onetoone-mappings/ http://www.SolidSyntax.be/2013/11/17/optimize-onetoone-mappings-hibernate/
-Redirect 301 /optimize-onetoone-mappings/ http://www.SolidSyntax.be/2013/11/17/optimize-onetoone-mappings-hibernate/
+Redirect 301 /lessons-learned/optimize-onetoone-mappings/ https://www.SolidSyntax.be/2013/11/17/optimize-onetoone-mappings-hibernate/
+Redirect 301 /optimize-onetoone-mappings/ https://www.SolidSyntax.be/2013/11/17/optimize-onetoone-mappings-hibernate/
 
-Redirect 301 /thoughts/connecting-jmx-to-tomcat/ http://www.SolidSyntax.be/2013/10/14/connecting-jmx-to-tomcat/
-Redirect 301 /thoughts/fetching-collections-hibernate/ http://www.SolidSyntax.be/2013/10/17/fetching-collections-hibernate/
-Redirect 301 /lessons-learned-short/getting-rid-of-tomcat-did-not-stop-in-time-messages/ http://www.SolidSyntax.be/2013/10/21/getting-rid-of-tomcat-did-not-stop-in-time-messages/
-Redirect 301 /lessons-learned-short/clean-the-spring-context-between-tests/ http://www.SolidSyntax.be/2013/10/22/clean-the-spring-context-between-tests/
-Redirect 301 /lessons-learned-short/use-spring-transactions-with-files/ http://www.SolidSyntax.be/2013/10/28/use-spring-transactions-with-files/
-Redirect 301 /lessons-learned-short/optimize-onetoone-mappings-hibernate/ http://www.SolidSyntax.be/2013/11/17/optimize-onetoone-mappings-hibernate/
-Redirect 301 /lessons-learned-short/converting-a-java-project-to-groovy/ http://www.SolidSyntax.be/2013/11/25/converting-a-java-project-to-groovy/
-Redirect 301 /books/reading-list-modularity-patterns-examples-using-osgi/ http://www.SolidSyntax.be/2013/12/05/reading-list-modularity-patterns-examples-using-osgi/
-Redirect 301 /lessons-learned-short/howto-use-jaxb-class-customization-avoid-xsd-conflicts/ http://www.SolidSyntax.be/2013/12/07/howto-use-jaxb-class-customization-avoid-xsd-conflicts/
-Redirect 301 /lessons-learned-short/access-concrete-class-spring-proxy/ http://www.SolidSyntax.be/2013/12/10/access-concrete-class-spring-proxy/
-Redirect 301 /books/reading-list-nosql-distilled/ http://www.SolidSyntax.be/2013/12/29/reading-list-nosql-distilled/
-Redirect 301 /thoughts/count-number-queries-transaction/ http://www.SolidSyntax.be/2015/01/28/count-number-queries-transaction/
-Redirect 301 /thoughts/getting-practice-make-game-angularjs/ http://www.SolidSyntax.be/2015/04/02/getting-practice-make-game-angularjs/
+Redirect 301 /thoughts/connecting-jmx-to-tomcat/ https://www.SolidSyntax.be/2013/10/14/connecting-jmx-to-tomcat/
+Redirect 301 /thoughts/fetching-collections-hibernate/ https://www.SolidSyntax.be/2013/10/17/fetching-collections-hibernate/
+Redirect 301 /lessons-learned-short/getting-rid-of-tomcat-did-not-stop-in-time-messages/ https://www.SolidSyntax.be/2013/10/21/getting-rid-of-tomcat-did-not-stop-in-time-messages/
+Redirect 301 /lessons-learned-short/clean-the-spring-context-between-tests/ https://www.SolidSyntax.be/2013/10/22/clean-the-spring-context-between-tests/
+Redirect 301 /lessons-learned-short/use-spring-transactions-with-files/ https://www.SolidSyntax.be/2013/10/28/use-spring-transactions-with-files/
+Redirect 301 /lessons-learned-short/optimize-onetoone-mappings-hibernate/ https://www.SolidSyntax.be/2013/11/17/optimize-onetoone-mappings-hibernate/
+Redirect 301 /lessons-learned-short/converting-a-java-project-to-groovy/ https://www.SolidSyntax.be/2013/11/25/converting-a-java-project-to-groovy/
+Redirect 301 /books/reading-list-modularity-patterns-examples-using-osgi/ https://www.SolidSyntax.be/2013/12/05/reading-list-modularity-patterns-examples-using-osgi/
+Redirect 301 /lessons-learned-short/howto-use-jaxb-class-customization-avoid-xsd-conflicts/ https://www.SolidSyntax.be/2013/12/07/howto-use-jaxb-class-customization-avoid-xsd-conflicts/
+Redirect 301 /lessons-learned-short/access-concrete-class-spring-proxy/ https://www.SolidSyntax.be/2013/12/10/access-concrete-class-spring-proxy/
+Redirect 301 /books/reading-list-nosql-distilled/ https://www.SolidSyntax.be/2013/12/29/reading-list-nosql-distilled/
+Redirect 301 /thoughts/count-number-queries-transaction/ https://www.SolidSyntax.be/2015/01/28/count-number-queries-transaction/
+Redirect 301 /thoughts/getting-practice-make-game-angularjs/ https://www.SolidSyntax.be/2015/04/02/getting-practice-make-game-angularjs/
+
+##------Forceer HTTPS verbinding geheel domein------##
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+##
