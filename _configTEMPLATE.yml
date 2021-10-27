@@ -1,4 +1,4 @@
-# Default configuration for Solid Syntax 
+# Default configuration for Solid Syntax
 ## passwords and sensitive information have been removed
 
 # Hexo Configuration
@@ -74,7 +74,7 @@ social:
     GitHub: https://github.com/SolidSyntax
     LinkedIn: https://www.linkedin.com/in/maeshans
 
-google_analytics: identifierGoesHere
+google_analytics: UA-44812713-1
 
 include:
     - .htaccess
@@ -83,9 +83,9 @@ include:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: ftpsync
-  host: 
-  user: 
-  pass: 
+  host:
+  user:
+  pass:
   remote:
   port: 21
   verbose: true
